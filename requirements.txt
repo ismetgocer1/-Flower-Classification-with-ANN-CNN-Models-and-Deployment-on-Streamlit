@@ -1,0 +1,4 @@
+seaborn==0.12.2
+keras==2.13.1
+tensorflow==2.13.0
+scikit-learn==0.24.2
